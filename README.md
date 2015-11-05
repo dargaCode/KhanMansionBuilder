@@ -1,6 +1,6 @@
 # Khan Academy - Mansion Builder
-<strong>Javascript + Processing.js<br>
-Originally completed 6/16/2015</strong>
+<strong>Language: Javascript + Processing.js</strong></br>
+Originally completed 6/16/2015
 
 Loops of loops of loops! I’ll never be scared to make a loop again.
 
